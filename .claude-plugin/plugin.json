@@ -1,0 +1,20 @@
+{
+  "name": "tiktok-skills",
+  "description": "6 Claude skills for TikTok: hook scripter, caption writer, trend mapper, content planner, profile optimizer, plus a Postiz publisher that schedules approved posts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mr.V",
+    "url": "https://github.com/mrvsubstack"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mrvsubstack/tiktok-skills",
+  "keywords": [
+    "tiktok",
+    "social-media",
+    "marketing",
+    "content",
+    "claude-skills",
+    "postiz",
+    "scheduling"
+  ]
+}
